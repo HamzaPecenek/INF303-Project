@@ -58,7 +58,7 @@ The sapling asks the player after completing the story, who they want to be:
 **Health**
 
 - The player is not alive, but they are still vulnerable
-- Classic "hearts" system with bones as the indicator OR "willpower" symbolized as blue flames
+- Classic "hearts" system with bones as the indicator
 
 **Mana**
 
@@ -69,7 +69,7 @@ The sapling asks the player after completing the story, who they want to be:
 **Player Customization**
 
 - Name
-- Gender (he/she)
+- Gender
 - If we have time: personal sprites
 
 **Skill Customization**
@@ -99,7 +99,6 @@ The sapling asks the player after completing the story, who they want to be:
 
 - **I - Inventory**: Opens inventory
 - **M - Map**: Opens map and can show the teleport points, location of the player, important landmarks
-- **P - Powers**: Can show the spells, special skills
 - **J - Journal**: Shows the current quests and main story progression
 
 ### HUD
@@ -113,9 +112,9 @@ The sapling asks the player after completing the story, who they want to be:
 
 ## Work distribution
 
-- **Sound Designer**: 1 Kişi
-- **Asset kütüphanesi**: 1 Kişi
-- **Kod**: 2 Kişi
-- **Level Design**: 1 Kişi
-- **Narration**: 1 Kişi
+- **Sound Designer**: 1 Person
+- **Asset kütüphanesi**: 1 Person
+- **Kod**: 2 Person
+- **Level Design**: 1 Person
+- **Narration**: 1 Person
 
